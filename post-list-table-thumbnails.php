@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: KC Post List Table Thumbnails
+ * Plugin Name: Post List Table Thumbnails
  * Description: Display post thumbnails on post list table
  * Plugin URI: http://kucrut.org/post-list-table-thumbnails/
  * Author: Dzikri Aziz
